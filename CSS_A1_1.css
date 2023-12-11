@@ -1,0 +1,276 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+}
+
+h1 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 14pt;
+}
+
+h3 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+h2 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.s1 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.s2 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.s3 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9.5pt;
+}
+
+.s4 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: 1pt;
+}
+
+.s5 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: 6pt;
+}
+
+.s7 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -1pt;
+}
+
+.s8 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9.5pt;
+    vertical-align: 6pt;
+}
+
+.s9 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.s10 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: 5pt;
+}
+
+.s11 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -2pt;
+}
+
+.s12 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -1pt;
+}
+
+.s13 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -7pt;
+}
+
+.s14 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -3pt;
+}
+
+.s15 {
+    color: #F00;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: -1pt;
+}
+
+.s16 {
+    color: #F00;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+}
+
+.s17 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.s18 {
+    color: black;
+    font-family: "Courier New", monospace;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.s19 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 10pt;
+    vertical-align: 2pt;
+}
+
+.s21 {
+    color: black;
+    font-family: "Courier New", monospace;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 12pt;
+}
+
+.s22 {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9pt;
+}
+
+p {
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 9pt;
+    margin: 0pt;
+}
+
+.a,
+a {
+    color: #0020EE;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 9pt;
+}
+
+.s23 {
+    color: #0020EE;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 9pt;
+}
+
+li {
+    display: block;
+}
+
+#l1 {
+    padding-left: 0pt;
+}
+
+#l1>li>*:first-child:before {
+    content: "● ";
+    color: black;
+    font-family: "Times New Roman", serif;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: none;
+    font-size: 9pt;
+}
+
+table,
+tbody {
+    vertical-align: top;
+    overflow: visible;
+}
